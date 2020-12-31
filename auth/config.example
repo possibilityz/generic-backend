@@ -1,0 +1,13 @@
+port: <web_port_number>
+google:
+  clientID: <get_from_juan>
+  clientSecret: <get_from_juan>
+  redirectUri: <oidc_redirect_uri>
+
+github:
+  clientID: <get_from_juan>
+  clientSecret: <get_from_juan>
+  redirectUri: <oidc_redirect_uri>
+
+logger-output-path: logs/logs.json
+oauthStateString: <any_string>
