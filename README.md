@@ -2,8 +2,8 @@
 
 ## 1. Authentication Module
 Functions to authenticate users using third-party services (eg. Google, Github, etc)\
-[ ] Integrate with Google Identity\
-[ ] Integrate with GitHub\
+[X] Integrate with Google Identity\
+[X] Integrate with GitHub\
 [ ] More soon...
 
 ## 2. COMING SOON...

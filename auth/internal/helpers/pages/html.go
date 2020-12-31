@@ -15,6 +15,7 @@ const IndexPage = `
 		</p>
 		<ul>
 			<li><a href="/login-gl">Google</a></li>
+			<li><a href="/login-gh">Github</a></li>
 		</ul>
 	</body>
 </html>
